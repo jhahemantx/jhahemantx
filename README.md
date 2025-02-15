@@ -1,8 +1,8 @@
-Hi there 👋
-🔭 I’m currently pursuing B.Tech in Computer Science from LNCT Bhopal.
-🌱 I’m currently learning more Machine Learning and Artificial Intelligence concepts.
-📫 How to reach me: jhahemantx@gmail.com
-⚡ Fun fact: I created so many Docker Containers that they probably have their own zip codes 😄.
+Hi there 👋<br/>
+🔭 I’m currently pursuing B.Tech in Computer Science from LNCT Bhopal.<br/>
+🌱 I’m currently learning more Machine Learning and Artificial Intelligence concepts.<br/>
+📫 How to reach me: jhahemantx@gmail.com<br/>
+⚡ Fun fact: I created so many Docker Containers that they probably have their own zip codes 😄.<br/>
 
 
 ## 🏆 GitHub Trophies
