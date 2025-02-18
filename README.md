@@ -20,9 +20,9 @@
 
 ## 🔝 Top Repositories
 [![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=mlops&theme=dark)](https://github.com/jhahemantx/mlops)
-[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=bhagwad-gita&theme=dark)](https://github.com/jhahemantx/bhagwad-gita)
-[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=churn-flask&theme=dark)](https://github.com/jhahemantx/churn-flask)
 [![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=transformers-from-scratch&theme=dark)](https://github.com/jhahemantx/transformers-from-scratch)
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=smiley-app&theme=dark)](https://github.com/jhahemantx/smiley-app)
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=background-remover&theme=dark)](https://github.com/jhahemantx/background-remover)
 
 
 
